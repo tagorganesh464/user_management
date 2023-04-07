@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "Rahul",
+      "email": "21071a6659@vnrvjiet.in",
+      "dob": "2023-04-02",
+      "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+      "id": 1
+    }
+  ],
+  "removedUsers": []
+}

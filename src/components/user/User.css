@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+.users-data{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.profile-image{
+max-width: 300px;
+height: 300px;
+width: 100%;
+border-radius: 50%;
+}
+.name{
+    color:#047c82;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+.Modal{
+    background-image: url();
+    background-size: cover;
+}
+.edit-form{
+    background-image: url();
+    background-size: contain;
+}
